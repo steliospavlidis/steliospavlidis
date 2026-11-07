@@ -6,7 +6,7 @@
 <p align="center">
   <a href="https://whatoblock.com"><img src="https://img.shields.io/badge/whatoblock.com-threat%20intel-c0392b?style=flat-square" alt="whatoblock.com"></a>
   <a href="https://github.com/Whatoblock-com"><img src="https://img.shields.io/badge/GitHub-Whatoblock--com-24292f?style=flat-square&logo=github" alt="Whatoblock-com org"></a>
-  <a href="https://blog.pavlidis.cc/"><img src="https://img.shields.io/badge/blog-pavlidis.cc-2e86de?style=flat-square" alt="Blog"></a>
+  <a href="https://whatoblock.com/blog"><img src="https://img.shields.io/badge/blog-whatoblock.com%2Fblog-2e86de?style=flat-square" alt="Blog"></a>
   <a href="https://x.com/whatoblock"><img src="https://img.shields.io/badge/@whatoblock-000000?style=flat-square&logo=x" alt="X"></a>
 </p>
 
@@ -38,4 +38,4 @@ Linux & Windows server administration · networking & firewalls · Python automa
 
 ### 📫 Get in touch
 
-[whatoblock.com](https://whatoblock.com) · [info@whatoblock.com](mailto:info@whatoblock.com) · [blog.pavlidis.cc](https://blog.pavlidis.cc/)
+[whatoblock.com](https://whatoblock.com) · [Blog](https://whatoblock.com/blog) · [info@whatoblock.com](mailto:info@whatoblock.com)
